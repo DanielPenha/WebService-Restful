@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<solicitacoes>
+	<versao>171</versao>
+	<ordem_de_servico>117.2483</ordem_de_servico>
+	<entidade>
+		<codigo>77</codigo>
+		<chave/>
+		<pacientes>
+			<paciente>
+				<codigo_lis>89523</codigo_lis>
+				<datanasc>01/01/1989</datanasc>
+				<nome>SOLITACAO B2B TESTE A</nome>
+				<sexo>F</sexo>
+				<matricula/>
+				<dataValidade/>
+				<endereco/>
+				<cidade/>
+				<estado/>
+				<cep/>
+				<telefone>7138882222</telefone>
+				<celular>71988884444</celular>
+				<cpf>93532659832</cpf>
+				<rg/>
+				<nome_mae>Mãe</nome_mae>
+				<cns/>
+				<email>mail@mail.com</email>
+			</paciente>
+		</pacientes>
+		<medicos>
+			<medico>
+				<crm>00376-BA</crm>
+				<nome>DRIANA RAMOS</nome>
+			</medico>
+		</medicos>
+		<solicitacao>
+			<codigo_lis>117.2483</codigo_lis>
+			<codigo_paciente>89523</codigo_paciente>
+			<crm>00376-BA</crm>
+			<unidade_solicitante>4º POSTO</unidade_solicitante>
+			<data>01/02/2017 16:30:53</data>
+			<dados_adicionais>urgencia=N</dados_adicionais>
+			<convenio>
+				<codigo>30</codigo>
+				<nome>ACACLIN MARCO</nome>
+			</convenio>
+			<amostra>
+				<material>SOR</material>
+				<identificacao>000000016833</identificacao>
+				<exame>
+					<codigo>GLICO</codigo>
+					<dados_adicionais/>
+					<data_coleta>01/02/2017 16:31:11</data_coleta>
+					<data_resultado>01/01/1900 00:00:00</data_resultado>
+					<status>P</status>
+					<ind_urgencia>N</ind_urgencia>
+					<ind_result_parcial/>
+					<num_item>1</num_item>
+					<num_senha/>
+					<num_guia/>
+				</exame>
+			</amostra>
+			<amostra>
+				<material>SANGT</material>
+				<identificacao>117002483000</identificacao>
+				<exame>
+					<codigo>HIV</codigo>
+					<dados_adicionais/>
+					<data_coleta>01/02/2017 16:31:25</data_coleta>
+					<data_resultado>01/01/1900 00:00:00</data_resultado>
+					<status>P</status>
+					<ind_urgencia>N</ind_urgencia>
+					<ind_result_parcial/> indica que é resultado parcial
+					<num_item>2</num_item>
+					<num_senha/> sennha
+					<num_guia/>
+				</exame>
+			</amostra>
+		</solicitacao>
+	</entidade>
+</solicitacoes>
+
+

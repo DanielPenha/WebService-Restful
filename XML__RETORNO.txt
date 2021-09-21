@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<respostas>
+    <solicitacao>
+        <codigo_lis>118.2483</codigo_lis>
+        <codigo_paciente>89523</codigo_paciente>
+        <exame>
+            <codigo>GLICO</codigo>
+            <num_item>1</num_item>
+            <identificacao>000000016833</identificacao>
+            <identificacao_apoio>000000016848</identificacao_apoio>
+            <status>1</status>
+        </exame>
+        <exame>
+            <codigo>HIV</codigo>
+            <num_item>2</num_item>
+            <identificacao>117002483000</identificacao>
+            <identificacao_apoio>117002701000</identificacao_apoio>
+            <status>1</status>
+        </exame>
+    </solicitacao>
+</respostas>

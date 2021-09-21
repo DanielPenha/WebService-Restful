@@ -1,0 +1,105 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="solicitacoes">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element type="xs:short" name="versao"/>
+        <xs:element type="xs:float" name="ordem_de_servico"/>
+        <xs:element name="entidade">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:byte" name="codigo"/>
+              <xs:element type="xs:string" name="chave"/>
+              <xs:element name="pacientes">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="paciente">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:int" name="codigo_lis"/>
+                          <xs:element type="xs:string" name="datanasc"/>
+                          <xs:element type="xs:string" name="nome"/>
+                          <xs:element type="xs:string" name="sexo"/>
+                          <xs:element type="xs:string" name="matricula"/>
+                          <xs:element type="xs:string" name="dataValidade"/>
+                          <xs:element type="xs:string" name="endereco"/>
+                          <xs:element type="xs:string" name="cidade"/>
+                          <xs:element type="xs:string" name="estado"/>
+                          <xs:element type="xs:string" name="cep"/>
+                          <xs:element type="xs:long" name="telefone"/>
+                          <xs:element type="xs:long" name="celular"/>
+                          <xs:element type="xs:long" name="cpf"/>
+                          <xs:element type="xs:string" name="rg"/>
+                          <xs:element type="xs:string" name="nome_mae"/>
+                          <xs:element type="xs:string" name="cns"/>
+                          <xs:element type="xs:string" name="email"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="medicos">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="medico">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="crm"/>
+                          <xs:element type="xs:string" name="nome"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="solicitacao">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:float" name="codigo_lis"/>
+                    <xs:element type="xs:int" name="codigo_paciente"/>
+                    <xs:element type="xs:string" name="crm"/>
+                    <xs:element type="xs:string" name="unidade_solicitante"/>
+                    <xs:element type="xs:string" name="data"/>
+                    <xs:element type="xs:string" name="dados_adicionais"/>
+                    <xs:element name="convenio">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:byte" name="codigo"/>
+                          <xs:element type="xs:string" name="nome"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="amostra" maxOccurs="unbounded" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="material"/>
+                          <xs:element type="xs:long" name="identificacao"/>
+                          <xs:element name="exame">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element type="xs:string" name="codigo"/>
+                                <xs:element type="xs:string" name="dados_adicionais"/>
+                                <xs:element type="xs:string" name="data_coleta"/>
+                                <xs:element type="xs:string" name="data_resultado"/>
+                                <xs:element type="xs:string" name="status"/>
+                                <xs:element type="xs:string" name="ind_urgencia"/>
+                                <xs:element type="xs:string" name="ind_result_parcial"/>
+                                <xs:element type="xs:byte" name="num_item"/>
+                                <xs:element type="xs:string" name="num_senha"/>
+                                <xs:element type="xs:string" name="num_guia"/>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

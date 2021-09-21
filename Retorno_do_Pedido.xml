@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<respostas>
+  <solicitacao>
+    <codigo_lis>120.291</codigo_lis>
+    <codigo_paciente>277</codigo_paciente>
+    <etiqueta_impressao></etiqueta_impressao>
+    <exame>
+      <codigo>W0008</codigo>
+      <num_item>1</num_item>
+      <identificacao></identificacao>
+      <identificacao_apoio>120000291119</identificacao_apoio>
+      <status>1</status>
+      <data_resultado>01/09/2020 08:00:00</data_resultado>
+    </exame>
+  </solicitacao>
+</respostas>

@@ -1,0 +1,185 @@
+<?encoding version='1.0' encoding='ISO-8859-1'?>
+<resultados>
+	<versao>20050701</versao>
+	<versao_smart>20.7.14</versao_smart>
+	<ordem_de_servico>4.15011305</ordem_de_servico>
+	<cnpj_lab>31887136000199</cnpj_lab>
+	<solicitacao>
+		<codigo>15011305</codigo>
+		<codigo_aol>4.15011305</codigo_aol>
+		<codigo_lis>15011305</codigo_lis>
+		<data_solicitacao>05/05/2021</data_solicitacao>
+		<data_realizacao>05/05/2021</data_realizacao>
+		<paciente>1247622</paciente>
+		<nome_paciente>PACIENTE TESTE SMART</nome_paciente>
+		<chave_paciente/>
+		<pac_matricula/>
+		<pac_numcpf/>
+		<pac_nasc>17/07/1990</pac_nasc>
+		<pac_sexo>M</pac_sexo>
+		<med_solic_nome>ERNANI MENCHISE</med_solic_nome>
+		<med_solic_crm>12343</med_solic_crm>
+		<amostras>
+			<amostra>
+				<codigo>304000116293</codigo>
+				<identificacao>304000116293</identificacao>
+				<material>999</material>
+			</amostra>
+		</amostras>
+		<exame>
+			<num_item>1</num_item>
+			<data_alteracao_laudo>10/01/2020 15:28:39</data_alteracao_laudo>
+			<cod_tabela>40601129</cod_tabela>
+			<codigo>CBO</codigo>
+			<nome>COLPOCITOLOGIA EM BASE LIQUIDA</nome>
+			<dataresultado>05/05/202122:11</dataresultado>
+			<observacao/>
+			<status/>
+			<resultado>
+				<amostra>304000116293</amostra>
+				<cod_tabela>40601129</cod_tabela>
+				<atributo>Local da Coleta</atributo>
+				<linharesultado>97123001</linharesultado>
+				<metodo>Papanicolaou em meio líquido (Automatizado Prepstain Tripath Imaging)</metodo>
+				<resultado>Não informado</resultado>
+				<resultadotexto/>
+				<unidade/>
+				<conclusao>?</conclusao>
+				<vlr_referencia>{\rtf1\ansi\deff0{\fonttbl{\f0\froman Tms Rmn;}{\f1\fmodern Courier;}}{\colortbl\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue127;\red0\green127\blue127;\red0\green127\blue0;\red127\green0\blue127;\red127\green0\blue0;\red127\green127\blue0;\red127\green127\blue127;\red192\green192\blue192}{\info{\creatim\yr1997\mo11\dy4\hr15\min7\sec22}{\revtim\yr1997\mo11\dy6\hr15\min49\sec26}{\version1}{\vern262367}}\paperw11906\paperh16838\margl566\margr566\margt239\margb283\deftab850\pard\qj\li0\fi0\ri6{\f1\fs16\cf0\up0\dn0 O teste Papanicolaou é um exame de triagem de lesões causadas pelo HPV de critérios subjetivos  e como tal está }\qj{\f1\fs16\cf0\up0\dn0 sujeito a resultados falso negativos/positivos. Existem outros exames, como por exemplo, o PCR para detecção do }\qj\li0\fi0\ri6{\f1\fs16\cf0\up0\dn0 vírus do HPV de alto risco oncogênico, que podem ser de utilidade nesses casos.}{\par}\pard\qj\li0\fi0\ri6{\f1\fs16\cf0\up0\dn0\par}\pard\qj\li0\fi0\ri6{\f1\fs16\cf0\up0\dn0 Exame realizado com supervisão do Dr. Helio Magarinos Torres Filho - CRM 5247173-0 e assinado eletronicamente. }{\par}\pard\ql\li0\fi0\ri6}</vlr_referencia>
+			</resultado>
+			<resultado>
+				<amostra>304000116293</amostra>
+				<cod_tabela>40601129</cod_tabela>
+				<atributo>Satisfatoria</atributo>
+				<linharesultado>97123003</linharesultado>
+				<metodo/>
+				<resultado>Componentes da endocérvice e da zona de transformação presentes</resultado>
+				<resultadotexto/>
+				<unidade/>
+				<conclusao>?</conclusao>
+				<vlr_referencia/>
+			</resultado>
+			<resultado>
+				<amostra>304000116293</amostra>
+				<cod_tabela>40601129</cod_tabela>
+				<atributo>Cel. Epiteliais</atributo>
+				<linharesultado>97123005</linharesultado>
+				<metodo/>
+				<resultado>C1 - ESCAMOSAS</resultado>
+				<resultadotexto>Endocervicais</resultadotexto>
+				<unidade/>
+				<conclusao>?</conclusao>
+				<vlr_referencia/>
+			</resultado>
+			<resultado>
+				<amostra>304000116293</amostra>
+				<cod_tabela>40601129</cod_tabela>
+				<atributo>Resultado</atributo>
+				<linharesultado>97123006</linharesultado>
+				<metodo/>
+				<resultado>AM1 - NORMAL</resultado>
+				<resultadotexto>Negativo para lesão intraepitelial ou malignidade</resultadotexto>
+				<unidade/>
+				<conclusao>?</conclusao>
+				<vlr_referencia/>
+			</resultado>
+			<resultado>
+				<amostra>304000116293</amostra>
+				<cod_tabela>40601129</cod_tabela>
+				<atributo>Elementos não epiteliais</atributo>
+				<linharesultado>97123009</linharesultado>
+				<metodo/>
+				<resultado>Leucócitos polimorfonucleares</resultado>
+				<resultadotexto/>
+				<unidade/>
+				<conclusao>?</conclusao>
+				<vlr_referencia/>
+			</resultado>
+			<resultado>
+				<amostra>304000116293</amostra>
+				<cod_tabela>40601129</cod_tabela>
+				<atributo>Alteração reacionais</atributo>
+				<linharesultado>97123010</linharesultado>
+				<metodo/>
+				<resultado>AR12 - NAO OBS</resultado>
+				<resultadotexto>Pseudo-eosinofilia<resultadotexto>
+				<unidade/>
+				<conclusao>?</conclusao>
+				<vlr_referencia/>
+			</resultado>
+			<resultado>
+				<amostra>304000116293</amostra>
+				<cod_tabela>40601129</cod_tabela>
+				<atributo>Alterações Não neoplásicas</atributo>
+				<linharesultado>97123011</linharesultado>
+				<metodo/>
+				<resultado>AN - NAO OBS</resultado>
+				<resultadotexto>Metaplasia escamosa</resultadotexto>
+				<unidade/>
+				<conclusao>?</conclusao>
+				<vlr_referencia/>
+			</resultado>
+			<resultado>
+				<amostra>304000116293</amostra>
+				<cod_tabela>40601129</cod_tabela>
+				<atributo>Microflora</atributo>
+				<linharesultado>97123012</linharesultado>
+				<metodo/>
+				<resultado>Lactobacillus sp.</resultado>
+				<resultadotexto/>
+				<unidade/>
+				<conclusao>?</conclusao>
+				<vlr_referencia/>
+			</resultado>
+			<resultado>
+				<amostra>304000116293</amostra>
+				<cod_tabela>40601129</cod_tabela>
+				<atributo>Avaliação hormonal</atributo>
+				<linharesultado>97123013</linharesultado>
+				<metodo/>
+				<resultado>AH2 - HIPOTRÓFICO</resultado>
+				<resultadotexto>Avaliação hormonal prejudicada</resultadotexto>
+				<unidade/>
+				<conclusao>?</conclusao>
+				<vlr_referencia/>
+			</resultado>
+			<resultado>
+				<amostra>304000116293</amostra>
+				<cod_tabela>40601129</cod_tabela>
+				<atributo>Tipo da amostra</atributo>
+				<linharesultado>97123016</linharesultado>
+				<metodo/>
+				<resultado>CONVENCIONAL</resultado>
+				<resultadotexto>CONVENCIONAL<resultadotexto/>
+				<unidade/>
+				<conclusao>?</conclusao>
+				<vlr_referencia/>
+			</resultado>
+			<resultado>
+				<amostra>304000116293</amostra>
+				<cod_tabela>40601129</cod_tabela>
+				<atributo>Anormalidades Cel. escamosas</atributo>
+				<linharesultado>97123017</linharesultado>
+				<metodo/>
+				<resultado>AE1 - NAO OBS</resultado>
+				<resultadotexto>Coilocitose</resultadotexto>
+				<unidade/>
+				<conclusao>?</conclusao>
+				<vlr_referencia/>
+			</resultado>
+			<resultado>
+				<amostra>304000116293</amostra>
+				<cod_tabela>40601129</cod_tabela>
+				<atributo>Anormalidade Cels. Glandulares</atributo>
+				<linharesultado>97123018</linharesultado>
+				<metodo/>
+				<resultado>ACG - NÂO OBS</resultado>
+				<resultadotexto>Não observadas</resultadotexto>
+				<unidade/>
+				<conclusao>?</conclusao>
+				<vlr_referencia/>
+			</resultado>
+			<laudo>{\rtf1\ansi\deff0{\fonttbl{\f0\froman Tms Rmn;}{\f1\fmodern Courier New;}{\f2\froman Times New Roman;}{\f3\fmodern Courier;}}{\colortbl\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue127;\red0\green127\blue127;\red0\green127\blue0;\red127\green0\blue127;\red127\green0\blue0;\red127\green127\blue0;\red127\green127\blue127;\red192\green192\blue192}{\info{\version1}{\vern262367}}\paperw11905\paperh16837\margl566\margr566\margt566\margb566\deftab720\pard\ql\li0\fi0\ri4{\b\ul\f1\fs22\cf0\up0\dn0 COLPOCITOLOGIA:}{\par}\pard\ql\li0\fi0\ri4{\b\f1\fs16\cf0\up0\dn0 Coleta: }{\f1\fs16\cf0\up0\dn0 05/05/2021}{\par}\pard\qj\li0\fi0\ri4{\b\f1\fs16\cf0\up0\dn0 Método:}{\b\f1\fs16\cf0\up0\dn0\tab}{\f1\fs16\cf0\up0\dn0 Papanicolaou em meio líquido (Automatizado Prepstain Tripath Imaging)}{\f1\fs16\cf0\up0\dn0 . Interpretação baseada no The Bethesda System for Reporting Cervical Cytology - 3ª }\qj{\f1\fs16\cf0\up0\dn0 Edição - 2014.}{\par}\pard\ql\li0\fi0\ri4{\b\f1\fs16\cf0\up0\dn0\par}\pard\ql\li0\fi0\ri4{\b\f1\fs18\cf0\up0\dn0 DUM: }{\f1\fs16\cf0\up0\dn0 }{\b\f1\fs18\cf0\up0\dn0   }{\par}\pard\ql\li0\fi0\ri4{\b\f1\fs18\cf0\up0\dn0\par}\pard\ql\li0\fi0\ri4{\b\f1\fs18\cf0\up0\dn0 TIPO DE AMOSTRA: }{\f1\fs18\cf0\up0\dn0 Convencional. Coloração pela técnica de Papanicolaou.}{\par}\pard\ql\li0\fi0\ri4{\b\f1\fs18\cf0\up0\dn0 REGIAO ANATÔMICA DA COLETA: }{\f1\fs20\cf0\up0\dn0 Não informado}{\par}\pard\ql\li0\fi0\ri4{\f1\fs20\cf0\up0\dn0\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0 }{\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0 ADEQUABILIDADE:}{\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0 SATISFATÓRIA}{\par}\pard\ql\li0\fi0\ri4{\f1\fs18\cf0\up0\dn0 Componentes da endocérvice e da zona de transformação presentes}{\f1\fs18\cf0\up0\dn0 }{\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0 }{\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0 CÉLULAS EPITELIAIS REPRESENTADAS NA AMOSTRA:}{\par}\pard\ql\li0\fi0\ri4{\f1\fs18\cf0\up0\dn0 Escamosas}{\f1\fs18\cf0\up0\dn0 }{\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0 ALTERAÇOES REACIONAIS ASSOCIADAS COM INFLAMAÇÃO, INCLUINDO REPARO TIPICO: }{\par}\pard\ql\li0\fi0\ri4{\f1\fs18\cf0\up0\dn0 Não observadas}{\f1\fs18\cf0\up0\dn0 }{\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0 ALTERAÇÕES CELULARES NÃO NEOPLÁSICAS:}{\par}\pard\ql\li0\fi0\ri4{\f1\fs18\cf0\up0\dn0 Não observadas}{\f1\fs18\cf0\up0\dn0 }{\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0 ATIPIAS EM CÉLULAS ESCAMOSAS:}{\par}\pard\ql\li0\fi0\ri4{\f1\fs18\cf0\up0\dn0 Não observadas}{\f1\fs18\cf0\up0\dn0 }{\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0 ATIPIAS EM CÉLULAS GLANDULARES:}{\par}\pard\ql\li0\fi0\ri4{\f1\fs18\cf0\up0\dn0 Não observadas}{\f1\fs18\cf0\up0\dn0 }{\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0 ELEMENTOS NÃO EPITELIAIS:}{\par}\pard\ql\li0\fi0\ri4{\f1\fs18\cf0\up0\dn0 Leucócitos polimorfonucleares}{\f1\fs18\cf0\up0\dn0 }{\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0 MICROFLORA:}{\par}\pard\ql\li0\fi0\ri4{\f1\fs18\cf0\up0\dn0 Lactobacillus sp.}{\f1\fs18\cf0\up0\dn0 }{\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0 RESULTADO:}{\par}\pard\ql\li0\fi0\ri4{\f1\fs18\cf0\up0\dn0 Dentro dos limites da normalidade no material analisado}{\f1\fs18\cf0\up0\dn0 }{\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0 }{\par}\pard\qj\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0 AVALIAÇÃO HORMONAL:}{\par}\pard\qj\li0\fi0\ri4{\f1\fs18\cf0\up0\dn0 Hipotrófico}{\f1\fs18\cf0\up0\dn0 }{\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0\par}\pard\ql\li0\fi0\ri4{\f1\fs20\cf0\up0\dn0 }{\par}\pard\ql\li0\fi0\ri4{\b\f1\fs20\cf0\up0\dn0\par}\pard\ql\li0\fi0\ri4{\f1\fs16\cf0\up0\dn0 \paperw11906\paperh16838\margl566\margr566\margt239\margb283\deftab850\pard\qj\li0\fi0\ri6{\f3\fs16\cf0\up0\dn0 O teste Papanicolaou é um exame de triagem de lesões causadas pelo HPV de critérios subjetivos  e como tal está }\qj{\f3\fs16\cf0\up0\dn0 sujeito a resultados falso negativos/positivos. Existem outros exames, como por exemplo, o PCR para detecção do }\qj\li0\fi0\ri6{\f3\fs16\cf0\up0\dn0 vírus do HPV de alto risco oncogênico, que podem ser de utilidade nesses casos.}{\par}\pard\qj\li0\fi0\ri6{\f3\fs16\cf0\up0\dn0\par}\pard\qj\li0\fi0\ri6{\f3\fs16\cf0\up0\dn0 Exame realizado com supervisão do Dr. Helio Magarinos Torres Filho - CRM 5247173-0 e assinado eletronicamente. }{\par}\pard\ql\li0\fi0\ri6{\par}\pard\ql\li0\fi0\ri4}}</laudo>
+		</exame>
+	</solicitacao>
+</resultados>

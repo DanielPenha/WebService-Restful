@@ -1,0 +1,35 @@
+<StatusExame>
+  <ordem_de_servico>120.291</ordem_de_servico>
+  <entidade>
+    <codigo>10000536</codigo>
+    <solicitacao>
+      <codigo_lis>120.291</codigo_lis>
+      <codigo_paciente>277</codigo_paciente>
+      <data_solicitacao>2020-08-31T19:38:45</data_solicitacao>
+      <amostra>
+        <material>SORO</material>
+        <identificacao>120000291119</identificacao>
+        <exame>
+          <codigo>F75</codigo>
+          <num_item>1</num_item>
+          <status>A</status>
+          <ind_urgencia>S</ind_urgencia>
+          <ind_result_parcial>N</ind_result_parcial>
+          <data_coleta>2020-08-31T20:13:39</data_coleta>
+          <data_resultado>2020-09-01T08:00:00</data_resultado>
+          <dados_adicionais>altura=173;peso=80</dados_adicionais>
+        </exame>
+        <exame>
+          <codigo>F76</codigo>
+          <num_item>2</num_item>
+          <status>P</status>
+          <ind_urgencia>S</ind_urgencia>
+          <ind_result_parcial>N</ind_result_parcial>
+          <data_coleta>2020-08-31T19:42:29</data_coleta>
+          <data_resultado>2020-09-01T08:00:00</data_resultado>
+          <dados_adicionais>altura=173;peso=80</dados_adicionais>
+        </exame>
+      </amostra>
+    </solicitacao>
+  </entidade>
+</StatusExame>

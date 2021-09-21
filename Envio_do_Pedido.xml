@@ -1,0 +1,74 @@
+<solicitacoes>
+  <versao>05.44D</versao>
+  <ordem_de_servico>120.291</ordem_de_servico>
+  <entidade>
+    <codigo>20</codigo>
+    <chave></chave>
+    <pacientes>
+      <paciente>
+        <codigo_lis>277</codigo_lis>
+        <datanasc>05/02/1988</datanasc>
+        <nome>TESTE LUCAS ARAUJO</nome>
+        <sexo>M</sexo>
+        <matricula>787878788888</matricula>
+        <dataValidade></dataValidade>
+        <endereco>MONSENHOR ANTONIO ROSA</endereco>
+        <cidade>1</cidade>
+        <estado>BA</estado>
+        <cep>40296295</cep>
+        <telefone></telefone>
+        <celular></celular>
+        <cpf>03670665560</cpf>
+        <rg>1009910094</rg>
+        <nome_mae>MARIA DAS GRACAS</nome_mae>
+        <cns></cns>
+        <email>lucas.araujo@pixeon.com</email>
+      </paciente>
+    </pacientes>
+    <medicos>
+      <medico>
+        <crm>00063-BA</crm>
+        <nome>CARLOS EDUARDO BORGES PASSOS</nome>
+        <cpf>03080897587</cpf>
+      </medico>
+      <medico>
+        <crm>00000-BA</crm>
+        <nome></nome>
+        <cpf></cpf>
+      </medico>
+    </medicos>
+    <solicitacao>
+      <codigo_lis>120.291</codigo_lis>
+      <codigo_paciente>277</codigo_paciente>
+      <crm>00063-BA</crm>
+      <crm2></crm2>
+      <crm3></crm3>
+      <unidade_solicitante>CONSULTORIOS ORTOPEDIA</unidade_solicitante>
+      <data>31/08/2020 16:30:00</data>
+      <dados_adicionais>urgencia=S</dados_adicionais>
+      <convenio>
+        <codigo>PIX</codigo>
+        <nome>B2B SMART</nome>
+      </convenio>
+      <amostra>
+        <material>SAN</material>
+        <identificacao>120000291119</identificacao>
+        <exame>
+          <codigo>W0008</codigo>
+          <dados_adicionais>altura=173;peso=80</dados_adicionais>
+          <crm>00063-BA</crm>
+          <crm2></crm2>
+          <crm3></crm3>
+          <data_coleta>31/08/2020 16:30:18</data_coleta>
+          <data_resultado>07/09/2020 16:30:19</data_resultado>
+          <status>A</status>
+          <ind_urgencia>S</ind_urgencia>
+          <ind_result_parcial></ind_result_parcial>
+          <num_item>1</num_item>
+          <num_senha></num_senha>
+          <num_guia></num_guia>
+        </exame>
+      </amostra>
+    </solicitacao>
+  </entidade>
+</solicitacoes>

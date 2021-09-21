@@ -1,0 +1,81 @@
+<solicitacoes>
+	<versao>20.8.47</versao>
+	<ordem_de_servico>120.472</ordem_de_servico>
+	<entidade>
+		<codigo>20</codigo>
+		<chave/>
+		<pacientes>
+			<paciente>
+				<codigo_lis>270</codigo_lis>
+				<datanasc>23/11/1994</datanasc>
+				<nome>TESTE PIXEON</nome>
+				<sexo>M</sexo>
+				<matricula>8887776656789</matricula>
+				<dataValidade/>
+				<endereco/>
+				<cidade/>
+				<estado/>
+				<cep/>
+				<telefone>71981552689</telefone>
+				<celular/>
+				<cpf>40914430874</cpf>
+				<rg/>
+				<email>amparo@pixeon.com</email>
+			</paciente>
+		</pacientes>
+		<medicos>
+			<medico>
+				<crm>00001-BA</crm>
+				<nome>ANESIA ANESTESISTA</nome>
+			</medico>
+			<medico>
+				<crm>00000-BA</crm>
+				<nome/>
+			</medico>
+		</medicos>
+		<solicitacao>
+			<codigo_lis>120.472</codigo_lis>
+			<codigo_paciente>270</codigo_paciente>
+			<crm>00001-BA</crm>
+			<crm2/>
+			<crm3/>
+			<unidade_solicitante>SETOR TESTE B2B</unidade_solicitante>
+			<data>23/12/2020 10:59:11</data>
+			<dados_adicionais>urgencia=N</dados_adicionais>
+			<convenio>
+				<codigo>PIX</codigo>
+				<nome>B2B SMART</nome>
+			</convenio>
+			<amostra>
+				<material>SAN</material>
+				<identificacao>120000472119</identificacao>
+				<exame>
+					<codigo>W0008</codigo>
+					<dados_adicionais>altura=175@carac#xA;peso=82@carac#xA;executante=998855@carac#xA;ufexecutante=BA@carac#xA;crmexecutante=998855@carac#xA;conselhoexecutante=CRF</dados_adicionais>
+					<data_coleta>23/12/2020 11:00:20</data_coleta>
+					<data_resultado>30/12/2020 10:59:52</data_resultado>
+					<status>A</status>
+					<ind_urgencia>N</ind_urgencia>
+					<ind_result_parcial>N</ind_result_parcial>
+					<num_item>1</num_item>
+					<num_senha/>
+					<num_guia/>
+					<observacao_exame>Swab Nasal</observacao_exame>
+				</exame>
+				<exame>
+					<codigo>W0009</codigo>
+					<dados_adicionais>altura=175@carac#xA;peso=82@carac#xA;executante=998855@carac#xA;ufexecutante=BA@carac#xA;crmexecutante=998855@carac#xA;conselhoexecutante=CRF</dados_adicionais>
+					<data_coleta>23/12/2020 11:00:34</data_coleta>
+					<data_resultado>30/12/2020 11:00:27</data_resultado>
+					<status>A</status>
+					<ind_urgencia>N</ind_urgencia>
+					<ind_result_parcial>N</ind_result_parcial>
+					<num_item>2</num_item>
+					<num_senha/>
+					<num_guia/>
+					<observacao_exame>Material Colhido fora das recomendações</observacao_exame>
+				</exame>
+			</amostra>
+		</solicitacao>
+	</entidade>
+</solicitacoes>

@@ -1,0 +1,9 @@
+<respostas>
+    <atendimento>118.1781</atendimento>
+    <atendimento>117.2476</atendimento>
+    <atendimento>117.9614</atendimento>
+    <atendimento>91.5</atendimento>
+    <atendimento>91.19</atendimento>
+    <atendimento>88305</atendimento>
+    <atendimento>88307</atendimento>
+</respostas>

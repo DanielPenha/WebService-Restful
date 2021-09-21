@@ -1,0 +1,41 @@
+
+   <solicitacao>
+        <codigo>463375</codigo>
+        <codigo_aol>117.463375</codigo_aol>
+        <codigo_lis>531063</codigo_lis>
+        <data_solicitacao></data_solicitacao>
+        <data_realizacao>06/06/2017</data_realizacao>
+        <paciente>2222210</paciente>
+        <nome_paciente>TESTE PIXEON</nome_paciente>
+        <chave_paciente></chave_paciente>
+        <pac_numcpf></pac_numcpf>
+        <pac_nasc>05/03/1988</pac_nasc>
+        <pac_sexo>M</pac_sexo>
+        <pac_matricula></pac_matricula>
+        <med_solic_nome>SEM SOLICITAÇÃO MÉDICA</med_solic_nome>
+        <med_solic_crm>0</med_solic_crm>
+        <amostras>
+            <amostra>
+                <codigo>163464302970</codigo>
+                <identificacao>163464302970</identificacao>
+                <material>SORO</material>
+            </amostra>
+        </amostras>
+        <exame>
+            <cod_tabela>10001136</cod_tabela>
+            <codigo>PTH</codigo>
+            <nome>PTH (PARATORMONIO)</nome>
+            <dataresultado>06/06/2017 13:14</dataresultado>
+            <observacao></observacao>
+            <resultado>
+                <amostra>163464302970</amostra>
+                <atributo>PARATORMÔNIO (PTH INTACTO)</atributo>
+                <linharesultado>2766001</linharesultado>
+                <metodo>Quimioluminescência</metodo>
+                <resultado>10</resultado>
+                <conclusao>N</conclusao>
+                <vlr_referencia>{\rtf1\ansi\deff0{\fonttbl{\f0\froman Tms Rmn;}{\f1\fswiss Verdana;}}{\colortbl\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue127;\red0\green127\blue127;\red0\green127\blue0;\red127\green0\blue127;\red127\green0\blue0;\red127\green127\blue0;\red127\green127\blue127;\red192\green192\blue192}{\info{\creatim\yr1997\mo11\dy4\hr15\min7\sec22}{\revtim\yr1997\mo11\dy6\hr15\min49\sec26}{\version1}{\vern262367}}\paperw11903\paperh16833\margl566\margr566\margt566\margb566\deftab850\pard\ql\li0\fi0\ri3{\f1\fs14\cf0\up0\dn0 Valores de referência (pg/mL): 11  a 79,5}}</vlr_referencia>
+            </resultado>
+            <laudo>{\rtf1\ansi\deff0{\fonttbl{\f0\froman Tms Rmn;}{\f1\froman Verdana;}{\f2\fswiss Arial;}{\f3\froman Times New Roman;}{\f4\fswiss Verdana;}}{\colortbl\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue127;\red0\green127\blue127;\red0\green127\blue0;\red127\green0\blue127;\red127\green0\blue0;\red127\green127\blue0;\red127\green127\blue127;\red192\green192\blue192}{\info{\version1}{\vern262367}}\paperw11905\paperh16837\margl566\margr566\margt566\margb566\deftab720\pard\ql\li0\fi0\ri4{\b\f1\fs16\cf0\up0\dn0 PARATORMÔNIO (PTH INTACTO)}{\par}\pard\ql\li0\fi0\tx5102\ri4{\f1\fs14\cf0\up0\dn0 Método: }{\f1\fs14\cf0\up0\dn0 Quimioluminescência}{\f1\fs14\cf0\up0\dn0  }{\f1\fs14\cf0\up0\dn0\tab}{\f1\fs14\cf0\up0\dn0 Material: Sangue }{\par}\pard\ql\li0\fi0\tx850\ri4{\f1\fs16\cf0\up0\dn0\par}\pard\ql\li0\fi0\ri4{\b\f1\fs16\cf0\up0\dn0 Resultado: }{\b\f1\fs16\cf0\up0\dn0 10,0}{\b\f1\fs16\cf0\up0\dn0  }{\b\f1\fs16\cf0\up0\dn0 pg/mL}{\b\f1\fs16\cf0\up0\dn0  }{\par}\pard\ql\li0\fi0\ri4{\f1\fs14\cf0\up0\dn0 \rtf1\ansi\deff0{\fonttbl{\f0\froman Tms Rmn;}{\f4\fswiss Verdana;}}{\colortbl\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue127;\red0\green127\blue127;\red0\green127\blue0;\red127\green0\blue127;\red127\green0\blue0;\red127\green127\blue0;\red127\green127\blue127;\red192\green192\blue192}{\info{\creatim\yr1997\mo11\dy4\hr15\min7\sec22}{\revtim\yr1997\mo11\dy6\hr15\min49\sec26}{\version1}{\vern262367}}\paperw11903\paperh16833\margl566\margr566\margt566\margb566\deftab850\pard\ql\li0\fi0\ri3{\f4\fs14\cf0\up0\dn0 Valores de referência (pg/mL): 11  a 79,5}}{\b\f1\fs14\cf0\up0\dn0  }{\par}\pard\ql\li0\fi0\ri4{\b\f1\fs16\cf0\up0\dn0 }{\par}\pard\ql\li0\fi0\tx2267\tx4251\tx6519\ri4{\f1\fs14\cf0\up0\dn0 }}}</laudo>
+        </exame>
+    </solicitacao>

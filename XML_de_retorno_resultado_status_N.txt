@@ -1,0 +1,45 @@
+Exemplo XML de retorno do resultado com status N (!B2B_RTFTXT)     
+
+<?xml version="1.0" ?>
+<resultados >
+	<versao>"20050701"</versao>
+	<versao_smart/>
+	<ordem_de_servico>112.12591</ordem_de_servico> 
+	<cnpj_lab>00364578000127</cnpj_lab>
+	<solicitacao >
+		<codigo>12591</codigo>
+		<codigo_aol>112.12591</codigo_aol>
+		<codigo_lis>(12591)</codigo_lis>
+		<data_solicitacao>17/08/2012</data_solicitacao>
+		<data_realizacao>17/08/2012</data_realizacao> 
+		<paciente>47254</paciente>
+		<nome_paciente>REBECA ARAUJO FERNANDES DA SILVA</nome_paciente>
+		<chave_paciente>R47254</chave_paciente>
+		<amostras>
+			<amostra >
+				<codigo>112012591710</codigo>
+				<identificacao>112012591710</identificacao>
+				<material>SOR</material>
+			</amostra>
+		</amostras>
+		<exame >
+			<codigo>GLICO</codigo>
+			<nome>GLICOSE</nome>
+			<dataresultado>22/08/201213:21</dataresultado>
+			<observacao/>
+			<resultado >
+				<amostra>112012591710</amostra>
+				<atributo>GLICOSE</atributo>
+				<linharesultado>5642001</linharesultado>
+				<metodo>Química seca</metodo>
+				<resultado>22</resultado>
+				<conclusao>A</conclusao>
+				<vlr_referencia> (Vl.Ref.: 70,0 a 99,0 ) </vlr_referencia>
+			</resultado>
+		</exame>
+	</solicitacao>
+	<diligenciamento/>
+</resultados>
+
+
+
